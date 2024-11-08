@@ -1,4 +1,4 @@
-# Bank-Stock-Analysis-and-Visualization-with-Python
+# Bank Stock Analysis and Visualization with Python
 
 Comprehensive analysis of daily return trends, volatility, and trading volumes for six major bank stocks: Bank of America (BAC), Citigroup (C), Goldman Sachs (GS), JPMorgan Chase (JPM), Morgan Stanley (MS), and Wells Fargo (WFC). Utilizing Python and its powerful libraries, in-depth data analysis and visualizations uncover insights and trends in the banking sector.
 
